@@ -28,8 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Learned how to properly use flexbox, for this example i used display:flex on body element. At the start i had problems using flexbox, becouse i used it on wrong html class, later fixed it.
-Hardest part was ofcourse learning to use flexbox, but after couple unsuccessful attempts learned my way thrue using flexbox.
+Learned how to properly use Flexbox; for this example, I used display:flex on the body element. At the start, I had problems using Flexbox because I used it on the wrong HTML class. Later, I fixed it. The hardest part was, of course, learning to use Flexbox, but after a couple unsuccessful attempts, I learned my way through using flexbox.
 
 ## Author
 
